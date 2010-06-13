@@ -2,21 +2,20 @@
 /**
  * @package Fireflies
  * @author T.J. Barber
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Fireflies
 Plugin URI: http://www.winworldblog.com/
 Description: This plug-in is yet another plug-in inspired by the famous "Hello Dolly" plugin that comes standard in WordPress. Instead of Hello Dolly, this plug-in displays Owl City's popular song <cite>Fireflies</cite> in the upper right of your admin screen on every page. Created by T.J. Barber from The Windows World Blog.
 Author: T.J. Barber
-Version: 1.0
+Version: 1.1
 Author URI: http://www.winworldblog.com/
 */
 
 function fireflies_get_lyric() {
 	/** lyrics to Fireflies go here. Thanks Adam Young! ^_^ */
-	$lyrics = "Fireflies
-You would not believe your eyes
+	$lyrics = "You would not believe your eyes
 If ten million Fireflies
 Lit up the world as I fell asleep
 Cause they fill the open air
